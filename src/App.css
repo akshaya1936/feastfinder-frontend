@@ -1,5 +1,4 @@
-/* Existing styles in app.css */
-
+/* src/App.css */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -38,13 +37,3 @@ button:hover {
 h2 {
   color: rgb(52, 8, 173);
 }
-
-/* New styles for the login heading */
-.login-heading {
-  text-align: center;
-  font-size: 3rem;
-  color: #2c3e50;
-  margin-bottom: 20px;
-  font-family: 'Arial', sans-serif;
-}
-

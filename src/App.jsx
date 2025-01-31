@@ -5,7 +5,6 @@ import Login from "./components/Login";
 import RestaurantList from "./components/RestaurantList";
 import Reservation from "./components/Reservation";
 
-
 const App = () => {
   return (
     <Router>
@@ -21,5 +20,4 @@ const App = () => {
 };
 
 export default App;
-
 
